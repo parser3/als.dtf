@@ -45,4 +45,4 @@ $ composer require als/dtf
 
 ## References
 
-- Bugs and feature request are tracked on [GitHub](https://github.com/parser3/als.sql/issues)
+- Bugs and feature request are tracked on [GitHub](https://github.com/parser3/als.dtf/issues)
